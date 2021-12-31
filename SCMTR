@@ -1,0 +1,89 @@
+{
+  "elrRequestPayload": {
+    "DocumentHeader": {
+      "DocumentReference": {
+        "DocumentType": "PCCHC03",
+        "DocumentName": "Container Loading",
+        "CommonRefNumber": "4425381",
+        "MessageType": "F",
+        "SenderID": "CITPL2019",
+        "SenderIdQualifier": "ZZ_DSC",
+        "ReceiverID": "INMAA1"
+      },
+      "DocumentExchangeDetails": {
+        "ReceivingPartyDetails": [
+          {
+            "ReceivingParty": ""
+          }
+        ]
+      }
+    },
+    "equipmentDetails": {
+      "requestorID": "INMAA1",
+      "recordType": "F",
+      "portCode": "INMAA1",
+      "voyageCallNumber": "21C002",
+      "idntyOfTheTrnsprtMeans": "8505989",
+      "totNoOfCntrsLndLodTO": "4",
+      "totNoOfTrnsprtEqtRprtdInCurrMsg": "4",
+      "lndngLodngCompTimeByTO": "2021-12-16 16:18:21",
+      "flag": "2",	  
+      "manifestNo": "1015694",
+      "manifestDt": "2021-12-16",
+      "eqtDtls": [
+        {
+          "equipmentType": "CN",
+          "equipmentNo": "NYKU8746512",
+          "equipmentSeqNo": "1",
+          "cntnrWghtVGM": "15",
+          "eqtDmgIndicatr": "",
+          "equipmentSealType": "1",
+          "dimensionCode": "",
+          "overDimLength": 0,
+          "overDimWidth": 0,
+          "overDimHeight": 0,
+          "descOfDmgEqt": ""
+        },
+        {
+          "equipmentType": "CN",
+          "equipmentNo": "ONEU8745289",
+          "equipmentSeqNo": "2",
+          "cntnrWghtVGM": "16",
+          "eqtDmgIndicatr": "",
+          "equipmentSealType": "1",
+          "dimensionCode": "",
+          "overDimLength": 0,
+          "overDimWidth": 0,
+          "overDimHeight": 0,
+          "descOfDmgEqt": ""
+        },
+        {
+          "equipmentType": "CN",
+          "equipmentNo": "WHLU1874568",
+          "equipmentSeqNo": "3",
+          "cntnrWghtVGM": "18",
+          "eqtDmgIndicatr": "",
+          "equipmentSealType": "1",
+          "dimensionCode": "",
+          "overDimLength": 0,
+          "overDimWidth": 0,
+          "overDimHeight": 0,
+          "descOfDmgEqt": ""
+        },
+        {
+          "equipmentType": "CN",
+          "equipmentNo": "REGU8759826",
+          "equipmentSeqNo": "4",
+          "cntnrWghtVGM": "19",
+          "eqtDmgIndicatr": "",
+          "equipmentSealType": "1",
+          "dimensionCode": "",
+          "overDimLength": 0,
+          "overDimWidth": 0,
+          "overDimHeight": 0,
+          "descOfDmgEqt": ""
+        }
+      ]
+    }
+  }
+}
